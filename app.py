@@ -14,7 +14,6 @@ scaler = joblib.load("group7_scaler.joblib")
 # ==========================
 # Segment 3: App Title
 # ==========================
-st.title("GROUP 7")
 st.title("GROUP 7 Diabetes Prediction System")
 
 # ==========================
